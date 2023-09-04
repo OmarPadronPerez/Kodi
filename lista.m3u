@@ -1,0 +1,40 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://i2.paste.pics/a66f18725932decfa4fcf7f634060922.png", Mundo de la Musica TV * | CL
+https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://i2.paste.pics/64f570fc821ff3b32cfdc0b0123be940.png", Recuerdos Retro Radio TV * | CL
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="664" tvg-name="Canal Once Internacional" tvg-logo="https://lh3.googleusercontent.com/-VZdwHbttDos/Xzgor6TjGYI/AAAAAAAA4ak/BIlD0jyTAE4A4uDQSWit8eEw20noJbW0wCK8BGAsYHg/s0/2020-08-15.png", Canal Once Internacional | MX
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="639" tvg-name="Canal 7 SLP" tvg-logo="https://i2.paste.pics/0aa378a645e18c804d3b93c7925a098e.png", Canal 7 SLP | MX
+https://mvtvstream.com:444/live/603d046595b62/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="772" tvg-name="Canal Once Mexico" tvg-logo="https://i2.paste.pics/8e264b8a52bef6f4c48c3f955e80debf.png", Canal Once Mexico | MX
+https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="665" tvg-name="Canal Once Nacional" tvg-logo="https://i2.paste.pics/8e264b8a52bef6f4c48c3f955e80debf.png", Canal Once Nacional | MX
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="634" tvg-name="Central FM" tvg-logo="https://i2.paste.pics/fef2856c6b007814e9e9d7a9a34f9876.png", Central FM | MX
+https://5fe2654d6127d.streamlock.net:443/centralfm/smil:centralfm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="670" tvg-name="Multimedios Monterrey" tvg-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png", Multimedios Monterrey | MX
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="679" tvg-name="Telemax Hermosillo" tvg-logo="https://i2.paste.pics/8a2bf919d229e094124cd4739b4c6c7c.png", Telemax Hermosillo | MX
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_1d2f750f1b0a4720922e81919f7e6a27~mv2.png",NATIONAL GEOGRAPHIC HD
+#EXTVLCOPT:http-user-agent=exoplayer_video
+http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/28.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_2d1f88a523bf497085eba849eb5241ac~mv2.png",NAT GEO WILD HD
+#EXTVLCOPT:http-user-agent=exoplayer_video
+http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/29.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_4d3e99dd9c1f4918b1cba60661d0c425~mv2.png",HISTORIA HD
+#EXTVLCOPT:http-user-agent=exoplayer_video
+http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/31.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_e0359d87a7df4ebfa87667dc3fbccf48~mv2.png",FOX HD
+#EXTVLCOPT:http-user-agent=exoplayer_video
+http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/36.ts
+#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/60229_logo_canal_cocina1.png",CANAL COCINA
+#EXTVLCOPT:http-user-agent=exoplayer_video
+http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/44.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_5dd0d922efdc4486a1f5376fe8722235~mv2.png",VIAJAR
+#EXTVLCOPT:http-user-agent=exoplayer_video
+http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/63.ts
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_3adbe5de15224b608997931b0c9b9fad~mv2.png",DISNEY CHANNEL HD
+#EXTVLCOPT:http-user-agent=exoplayer_video
+http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y56811988/42.ts
